@@ -1,16 +1,32 @@
-### Hi there 👋
+```
+ _    _      _                           
+| |  | |    | |                          
+| |  | | ___| | ___ ___  _ __ ___   ___  
+| |/\| |/ _ \ |/ __/ _ \| '_ ` _ \ / _ \ 
+\  /\  /  __/ | (_| (_) | | | | | |  __/ 
+ \/  \/ \___|_|\___\___/|_| |_| |_|\___| 
 
-<!--
-**seyerj/seyerj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```    
 
-Here are some ideas to get you started:
+## Hello, I am Josh
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ops and infrastructure by day, crypto and blockchain hobbyst by night
+[https://github.com/seyerj](url)
+ 
+### Current projects
+
+- Server/security automation
+- Powershell [https://github.com/seyerj?tab=repositories](url)
+- Infrastructure/server/node management
+- Virtualization: VMware and virtualbox
+- Microsoft365
+- Deployment automation: Windows Deployment Services/Microsoft Deployment Toolkit
+
+#### Current hobby projects
+
+- Homelab for learning
+- Theta node
+- Ethereum layer 2 bridging and testing
+- Pi Hole and DNS caching/security: **OG Pi with the full sized SD card** 
+- Retro Pi build 2B hardware, some decent builds here [https://www.arcadepunks.com/pi-images-downloads-page/](url)
+- DIY food gardening
